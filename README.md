@@ -7,3 +7,5 @@ Nesse projeto foi utilizado JavaScript puro;
 O usúario consegue buscar qualquer filme pelo input, marcar como favorito e filtar;
 
 Foi utilizado, HTML5, CSS, JS
+
+Alunos: Vinicus Gomes, Lucas Silvino
